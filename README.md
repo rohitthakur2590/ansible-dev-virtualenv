@@ -31,8 +31,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Edit content of bash_profile file. (you might not have local)
 
 ```markdown
-
-```markdown
  [rothakur@localhost]$ vi ~/.bash_profile
               export WORKON_HOME="~/venvs"
               VIRTUALENVWRAPPER_PYTHON='/usr/local/bin/python'
