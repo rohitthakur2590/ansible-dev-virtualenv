@@ -28,7 +28,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ```markdown
 [rothakur@localhost]$ sudo pip install virtualenvwrapper 
 ```
-### Edit content of bash_profile file. (you might not have local)### Add upstream and checkout upstream branches in gitcode directory
+### Edit content of bash_profile file. (you might not have local)
 
 ```markdown
 
@@ -68,7 +68,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
                        clear
                        out="$(ansible --version)"
                        echo $out
- ```                      
+```   
+ 
 ### Add upstreams
 
 ```markdown
